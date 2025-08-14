@@ -5,7 +5,11 @@ This repository contains the **DSI Assessment Task 2** project for the Data Scie
 The project involves **dataset exploration, literature review, problem definition, and approach planning**, covering all stages of the assignment.  
 
 ---
+## Dataset Selected
 
+> Credit score classification
+https://www.kaggle.com/datasets/parisrohan/credit-score-classification
+---
 ## How to open this project with Google Colab
 
 ### 1. Open Colab Notebook from GitHub
