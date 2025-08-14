@@ -20,7 +20,7 @@ To open a Jupyter Notebook from GitHub in Google Colab, follow these steps:
 ### 2. Copy Dataset to the Notebook Folder in Google Colab
 To use a dataset in the notebook, follow these steps:
 
-![Add Data](https://raw.githubusercontent.com/Nelkit/DSI-AT2-data-analysis-project/master/images/add_data_to_notebook.png)
+![Add Data](https://raw.githubusercontent.com/Nelkit/DSI-AT2-data-analysis-project/master/images/add_data_to_notebook2.png)
 
 ### 3. Commit Changes to the Correct Branch in GitHub
 Once you have made modifications, commit them to the branch that has your name.
